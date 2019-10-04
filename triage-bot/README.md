@@ -8,7 +8,7 @@ We will need to authenticate using a Personal Access Token (PAT) in order to exe
 
 Next, click “+ New access token” and follow the instructions to get your token. Treat this token like a username and password. Don’t share it with anyone and never publish it to a public repository. Save the PAT as an environment variable. For this guide, I’ve saved a PAT as an environment variable asana_triage_bot__pat.
 
-## Creatae a sandox
+## Create a sandox
 
 Before we start coding, create a project in Asana to use as a sandbox. While not required, I like to set the project to private while developing. To get some users in the project, add your main Asana user as well as your bot account. You could also invite a personal email as a guest user.
 
