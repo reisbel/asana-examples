@@ -20,7 +20,7 @@ Install the Node Asana client library and create app file:
 
 ```bash
 npm install asana
-touch config app.js
+touch app.js
 ```
 
 Application code
@@ -47,7 +47,7 @@ client.users.me()
 Test application
 
 ```bash
-node index.js
+node app.js
 ```
 
 Example output:

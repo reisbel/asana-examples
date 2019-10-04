@@ -1,7 +1,7 @@
 {
-  "name": "hello_world",
+  "name": "triage-bot",
   "version": "1.0.0",
-  "description": "Basic asana integration example",
+  "description": "In this guide, we will build a simple triage bot that will assign tasks. This is a common Asana use case with support inboxes or request projects.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,8 +12,7 @@
   },
   "keywords": [
     "asana",
-    "hello",
-    "world"
+    "bot"
   ],
   "author": "Reisbel Machado",
   "license": "MIT",
