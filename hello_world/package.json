@@ -1,0 +1,27 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "description": "Basic asana integration example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reisbel/asana-examples.git"
+  },
+  "keywords": [
+    "asana",
+    "hello",
+    "world"
+  ],
+  "author": "Reisbel Machado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reisbel/asana-examples/issues"
+  },
+  "homepage": "https://github.com/reisbel/asana-examples#readme",
+  "dependencies": {
+    "asana": "^0.17.3"
+  }
+}
